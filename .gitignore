@@ -1,5 +1,2 @@
-.myfirsthiddenfile
 *.log
 .DS_Store
-dir/
-a.out
